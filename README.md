@@ -1,4 +1,4 @@
-# Kubernetes no Ubuntu Server
+# Kubernetes 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
